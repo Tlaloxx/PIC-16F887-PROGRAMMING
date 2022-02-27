@@ -16,12 +16,12 @@ https://microchipdeveloper.com/install:pickit3
 
 ```
 
-### Examples made with MPLAB and XC8 interpreter  
+### Download with MPLAB and XC8 interpreter  
 
 ```
 https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide
 ```
 
-## 10 usefull examples to program Micronctroller PIC 
+## 10 usefull examples to program Microncontroller PIC 
 
 
