@@ -9,19 +9,19 @@ https://www.microchip.com/en-us/product/PIC16F887
 
 ```
 
-INSTALL PICKIT TO PROGRAM THE PIC 16F8XX
+###INSTALL PICKIT TO PROGRAM THE PIC 16F8XX
 
 ```
 https://microchipdeveloper.com/install:pickit3
 
 ```
 
-### Download with MPLAB and XC8 interpreter  
+### Download MPLAB IDE and XC8 interpreter  
 
 ```
 https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide
 ```
 
-## 10 usefull examples to program Microncontroller PIC 
+### 10 usefull examples to program Microncontroller PIC 
 
 
